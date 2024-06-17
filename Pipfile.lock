@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "206004a3a1d2306b54b3dee14f64a282c756ce9217f1a48ccc3f1ef821528fd2"
+            "sha256": "69bae2528ec7fa0a4fbb057eace4671ee760018bbf89bf1b34ae7c3f1b1dcb20"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -130,14 +130,6 @@
             "index": "pypi",
             "markers": "python_version >= '3.9'",
             "version": "==0.4.29"
-        },
-        "jax-metal": {
-            "hashes": [
-                "sha256:68006a39d331674880265361f612fcb0e3314a220245c05b8c27d204077de085",
-                "sha256:6cbd62a2068fcadea9c22689c12905e6fe0f58da2230fe2beba263132258cc54"
-            ],
-            "index": "pypi",
-            "version": "==0.1.0"
         },
         "jaxlib": {
             "hashes": [
@@ -600,14 +592,6 @@
             ],
             "markers": "python_version >= '2'",
             "version": "==2024.1"
-        },
-        "wheel": {
-            "hashes": [
-                "sha256:465ef92c69fa5c5da2d1cf8ac40559a8c940886afcef87dcf14b9470862f1d85",
-                "sha256:55c570405f142630c6b9f72fe09d9b67cf1477fcf543ae5b8dcb1f5b7377da81"
-            ],
-            "markers": "python_version >= '3.8'",
-            "version": "==0.43.0"
         }
     },
     "develop": {}
