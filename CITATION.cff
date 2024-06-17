@@ -1,0 +1,8 @@
+@masterthesis{xu2024mastersthesis,
+  title        = {Hyperparameter tuning for SGLD-based LLC estimation},
+  author       = {Adrian K. Xu},
+  year         = 2024,
+  month        = {June},
+  school       = {University of Melbourne},
+  type         = {Master's thesis}
+}
